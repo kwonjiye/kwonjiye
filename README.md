@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Jiye Kwon 👋
 
+Currently working on backend. Recently, start learning Java language.
 <!--
 **kwonjiye/kwonjiye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
