@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=purple&height=170&section=header&text=JiyeKwon%20&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=blue&height=170&section=header&text=JiyeKwon%20&fontSize=90" />
 
 ### Hi there, I'm Jiye Kwon 👋
 
