@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 -->
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/C++-CC0000?style=flat-square&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/C++-CC0000?style=flat-square&logo=C++&logoColor=white"/></a>
 
 
 
