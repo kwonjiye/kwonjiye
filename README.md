@@ -3,15 +3,6 @@
 <img src="https://img.shields.io/badge/frontend+backend-blue?style=flat-square&logo=frontend+backend&logoColor=black"/>
 
 ### Hi there, I'm Jiye Kwon 👋
-
-Currently working on backend. Recently, start learning Java language.
-<!--
-**kwonjiye/kwonjiye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-
 🔭 I’m currently working on ...
 🌱 I’m currently learning ...
 👯 I’m looking to collaborate on ...
@@ -20,6 +11,14 @@ Here are some ideas to get you started:
 📫 How to reach me: ...
 😄 Pronouns: ...
 ⚡ Fun fact: ...
+
+Currently working on backend. Recently, start learning Java language.
+<!--
+**kwonjiye/kwonjiye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C++-00599?style=flat-square&logo=C++ language&logoColor=white"/></a>
 
