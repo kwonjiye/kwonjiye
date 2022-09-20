@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=170&section=header&text=JiyeKwon%20&fontSize=90" />
 
-<img src="https://img.shields.io/badge/Clara-purple?style=flat-square&logo=frontend+backend&logoColor=black"/>
+<img src="https://img.shields.io/badge/frontend+backend-blue?style=flat-square&logo=frontend+backend&logoColor=black"/>
 
 ### Hi there, I'm Jiye Kwon 👋
 
