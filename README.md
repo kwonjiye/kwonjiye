@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=170&section=header&text=JiyeKwon%20&fontSize=90" />
 
-<img src="https://img.shields.io/badge/Clara-purple?style=flat-square&logo=Jiye&logoColor=black"/>
+<img src="https://img.shields.io/badge/Clara-purple?style=flat-square&logo=frontend+backend&logoColor=black"/>
 
 ### Hi there, I'm Jiye Kwon 👋
 
@@ -24,3 +24,4 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C++-00599?style=flat-square&logo=C++ language&logoColor=white"/></a>
 
+<a href="https://github.com/seondal"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseondal&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a>
