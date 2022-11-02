@@ -2,7 +2,7 @@
 ## 🌜 : Software Developer🙏
 
 ### Hi there, I'm Jiye Kwon 👋
-🔭 I’m currently working on Telechips.
+🔭 I’m currently working on Chungbuk education
 🌱 I’m currently learning Java.
 👯 I’m looking to collaborate on company.
 🤔 I’m looking for help with ...
