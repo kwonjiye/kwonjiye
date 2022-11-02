@@ -20,11 +20,9 @@ Here are some ideas to get you started:
 
 ### 💙Language💙
 
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C++-green?style=flat&logo=C++&logoColor=00599C"/></a>
 <img src="https://img.shields.io/badge/C-gray?style=flat&logo=C&logoColor=A8B9CC"/></a>
-<img src="https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=JavaScript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/Java-FFCA28?style=flat-square&logo=Java&logoColor=white"/>
+
 
 ### 💜Blog💜
 <a href="https://velog.io/@whojiye"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
