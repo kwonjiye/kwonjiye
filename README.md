@@ -2,12 +2,12 @@
 ## 🌜 : Software Developer🙏
 
 ### Hi there, I'm Jiye Kwon 👋
-🔭 I’m currently working on Chungbuk education
-🌱 I’m currently learning Java.
-👯 I’m looking to collaborate on company.
-🤔 I’m looking for help with ...
+🔭 I’m currently working on Chungbuk education center
+🌱 I’m currently learning C++.
+👯 I’m looking to collaborate on manufactoring business company.
+🤔 I’m looking for help with M&A company that making screw.
 💬 Ask me about how to working QA.
-📫 How to reach me: ...
+📫 How to reach me: whojiye@naver.com
 😄 Pronouns: Good
 ⚡ Fun fact: ...
 
