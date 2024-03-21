@@ -7,7 +7,7 @@
 👯 I’m looking to collaborate on manufactoring business company.
 🤔 I’m looking for help with M&A company that making screw.
 💬 Ask me about how to working QA.
-📫 How to reach me: whojiye@naver.com
+📫 How to reach me: comment Plz
 😄 Pronouns: Good
 ⚡ Fun fact: ...
 
